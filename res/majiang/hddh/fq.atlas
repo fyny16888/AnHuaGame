@@ -1,0 +1,69 @@
+
+fq.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a (1)
+  rotate: false
+  xy: 751, 298
+  size: 157, 151
+  orig: 157, 151
+  offset: 0, 0
+  index: -1
+a (11)
+  rotate: false
+  xy: 587, 259
+  size: 162, 190
+  orig: 162, 190
+  offset: 0, 0
+  index: -1
+a (12)
+  rotate: false
+  xy: 213, 238
+  size: 186, 211
+  orig: 186, 211
+  offset: 0, 0
+  index: -1
+a (18)
+  rotate: false
+  xy: 2, 2
+  size: 177, 223
+  orig: 177, 223
+  offset: 0, 0
+  index: -1
+a (19)
+  rotate: false
+  xy: 2, 227
+  size: 209, 222
+  orig: 209, 222
+  offset: 0, 0
+  index: -1
+a (2)
+  rotate: false
+  xy: 751, 151
+  size: 162, 145
+  orig: 162, 145
+  offset: 0, 0
+  index: -1
+a (3)
+  rotate: false
+  xy: 910, 349
+  size: 91, 100
+  orig: 91, 100
+  offset: 0, 0
+  index: -1
+a (4)
+  rotate: false
+  xy: 181, 86
+  size: 160, 139
+  orig: 160, 139
+  offset: 0, 0
+  index: -1
+a (5)
+  rotate: false
+  xy: 401, 249
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1

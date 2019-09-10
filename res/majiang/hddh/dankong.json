@@ -1,0 +1,150 @@
+{
+"skeleton": { "hash": "oIuLB4fJFdPYOpawcO1rk0PdVfc", "spine": "2.1.27", "width": 71.93, "height": 64.17, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "dj_jgq_23", "bone": "root", "attachment": "dj_jgq_23" },
+	{ "name": "dj_jgq_26", "bone": "root", "attachment": "dj_jgq_23" },
+	{ "name": "dj_jgq_29", "bone": "root", "attachment": "dj_jgq_23" },
+	{ "name": "dj_jgq_32", "bone": "root", "attachment": "dj_jgq_23" },
+	{ "name": "dj_jgq_24", "bone": "root", "attachment": "dj_jgq_24" },
+	{ "name": "dj_jgq_27", "bone": "root", "attachment": "dj_jgq_24" },
+	{ "name": "dj_jgq_30", "bone": "root", "attachment": "dj_jgq_24" },
+	{ "name": "dj_jgq_34", "bone": "root", "attachment": "dj_jgq_24" },
+	{ "name": "dj_jgq_33", "bone": "root", "attachment": "dj_jgq_24" },
+	{ "name": "dj_jgq_25", "bone": "root", "attachment": "dj_jgq_25" },
+	{ "name": "dj_jgq_28", "bone": "root", "attachment": "dj_jgq_25" },
+	{ "name": "dj_jgq_31", "bone": "root", "attachment": "dj_jgq_25" }
+],
+"skins": {
+	"default": {
+		"dj_jgq_23": {
+			"dj_jgq_23": { "x": 12.25, "y": 1.74, "width": 17, "height": 17 }
+		},
+		"dj_jgq_24": {
+			"dj_jgq_24": { "x": -19.97, "y": -12.53, "width": 17, "height": 17 }
+		},
+		"dj_jgq_25": {
+			"dj_jgq_25": { "x": 18.61, "y": -6.38, "width": 17, "height": 17 }
+		},
+		"dj_jgq_26": {
+			"dj_jgq_23": { "x": 13.16, "y": 21.27, "width": 17, "height": 17 }
+		},
+		"dj_jgq_27": {
+			"dj_jgq_24": { "x": 1.35, "y": 11.52, "width": 17, "height": 17 }
+		},
+		"dj_jgq_28": {
+			"dj_jgq_25": { "x": 28.14, "y": -25.9, "width": 17, "height": 17 }
+		},
+		"dj_jgq_29": {
+			"dj_jgq_23": { "x": -24.06, "y": 18.54, "width": 17, "height": 17 }
+		},
+		"dj_jgq_30": {
+			"dj_jgq_24": { "x": 12.7, "y": -21.15, "width": 17, "height": 17 }
+		},
+		"dj_jgq_31": {
+			"dj_jgq_25": { "x": -5.9, "y": -22.27, "width": 17, "height": 17 }
+		},
+		"dj_jgq_32": {
+			"dj_jgq_23": { "x": -16.34, "y": 5.83, "width": 17, "height": 17 }
+		},
+		"dj_jgq_33": {
+			"dj_jgq_24": { "x": -2.27, "y": -5.26, "width": 17, "height": 17 }
+		},
+		"dj_jgq_34": {
+			"dj_jgq_24": { "x": 30.86, "y": 5.62, "width": 17, "height": 17 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"dj_jgq_23": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "dj_jgq_23" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_24": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "dj_jgq_24" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_25": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "dj_jgq_25" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_26": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "dj_jgq_23" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_27": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "dj_jgq_24" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_28": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "dj_jgq_25" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_29": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "dj_jgq_23" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_30": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "dj_jgq_24" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_31": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "dj_jgq_25" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_32": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "dj_jgq_23" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_33": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "dj_jgq_24" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"dj_jgq_34": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5666, "name": "dj_jgq_24" },
+					{ "time": 1.2333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

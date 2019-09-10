@@ -1,0 +1,132 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
+      "name": "xuanzhuanxing",
+      "bone_data": [
+        {
+          "name": "Layer2",
+          "parent": "",
+          "dI": -1,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -0.660544932,
+          "kY": 0.660544932,
+          "arrow_x": 176.02561950683594,
+          "arrow_y": 1.7487036529928446E-06,
+          "effectbyskeleton": true,
+          "bl": 176
+        },
+        {
+          "name": "Layer14",
+          "parent": "Layer2",
+          "dI": 0,
+          "x": 55.405124664306641,
+          "y": -0.40565109252929688,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.373899,
+          "kY": 1.373899,
+          "arrow_x": 2.236069917678833,
+          "arrow_y": -7.5400457717478275E-06,
+          "effectbyskeleton": true,
+          "bl": 2,
+          "display_data": [
+            {
+              "plist": "zouguangxing.plist",
+              "displayType": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "xuanzhuanxing",
+      "mov_data": [
+        {
+          "name": "Animation4",
+          "dr": 51,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.333333343,
+          "mov_bone_data": [
+            {
+              "name": "Layer14",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": -1.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": -1.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 6.28318548,
+                  "kY": -6.283186,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": null,
+  "config_file_path": [
+    "zouguangxing.plist"
+  ],
+  "config_png_path": [
+    "zouguangxing.png"
+  ]
+}

@@ -1,0 +1,118 @@
+
+daoshui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 317, 205
+  size: 78, 101
+  orig: 78, 101
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 817, 378
+  size: 155, 109
+  orig: 155, 109
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 179, 183
+  size: 136, 123
+  orig: 136, 123
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 818, 248
+  size: 136, 128
+  orig: 136, 128
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 541, 346
+  size: 136, 141
+  orig: 136, 141
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 679, 356
+  size: 136, 131
+  orig: 136, 131
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 155, 120
+  orig: 155, 120
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 124
+  size: 160, 177
+  orig: 160, 177
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 359, 311
+  size: 180, 176
+  orig: 180, 176
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 179, 308
+  size: 178, 179
+  orig: 178, 179
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 303
+  size: 175, 184
+  orig: 175, 184
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 541, 232
+  size: 137, 112
+  orig: 137, 112
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 818, 131
+  size: 137, 115
+  orig: 137, 115
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 680, 232
+  size: 136, 122
+  orig: 136, 122
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 397, 220
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1
+tong
+  rotate: false
+  xy: 164, 97
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1

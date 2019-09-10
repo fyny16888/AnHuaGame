@@ -1,0 +1,12 @@
+{
+   "assets" : {
+   },
+   "engineVersion" : "Cocos2d-lua v3.6",
+   "packageUrl" : "http://download.hy.qilaigame.com/qilaigame.com/dxxqp/dxxqp_apple_10/",
+   "remoteManifestUrl" : "http://download.hy.qilaigame.com/qilaigame.com/dxxqp/dxxqp_apple_10/src/version/24/project.manifest",
+   "remoteVersionUrl" : "http://download.hy.qilaigame.com/qilaigame.com/dxxqp/dxxqp_apple_10/src/version/24/version.manifest",
+   "searchPaths" : [],
+   "updateContent" : "更新内容:\n1.优化俱乐部\n2.优化游戏细节\n请更新到最新版本！",
+   "isCompel":"0",
+   "version" : "1.0.034"
+}

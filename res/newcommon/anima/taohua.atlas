@@ -1,0 +1,69 @@
+
+taohua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxian1
+  rotate: false
+  xy: 2, 2
+  size: 197, 196
+  orig: 197, 196
+  offset: 0, 0
+  index: -1
+guangxian2
+  rotate: true
+  xy: 201, 62
+  size: 136, 200
+  orig: 136, 200
+  offset: 0, 0
+  index: -1
+huaban1
+  rotate: false
+  xy: 768, 449
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+huaban3
+  rotate: false
+  xy: 415, 290
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+huaban4
+  rotate: false
+  xy: 466, 354
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+huaban5
+  rotate: false
+  xy: 201, 25
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+taozhi1
+  rotate: false
+  xy: 466, 383
+  size: 300, 118
+  orig: 300, 118
+  offset: 0, 0
+  index: -1
+taozhi2
+  rotate: false
+  xy: 2, 200
+  size: 411, 137
+  orig: 411, 137
+  offset: 0, 0
+  index: -1
+taozhi3
+  rotate: false
+  xy: 2, 339
+  size: 462, 162
+  orig: 462, 162
+  offset: 0, 0
+  index: -1

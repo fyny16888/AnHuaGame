@@ -1,0 +1,27 @@
+
+shou.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 95, 4
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 186, 6
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 2, 2
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1

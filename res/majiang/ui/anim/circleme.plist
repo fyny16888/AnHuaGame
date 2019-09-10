@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>animation_mj0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{403,218},{95,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{95,99}</string>
+			</dict>
+			<key>animation_mj00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{226,0},{95,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,109}</string>
+			</dict>
+			<key>animation_mj0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{405,101},{95,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,95}</string>
+			</dict>
+			<key>animation_mj0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{321,0},{95,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,101}</string>
+			</dict>
+			<key>animation_mj0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{416,0},{95,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,81}</string>
+			</dict>
+			<key>animation_mj0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{228,354},{95,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,109}</string>
+			</dict>
+			<key>animation_mj0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{323,345},{87,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,109}</string>
+			</dict>
+			<key>animation_mj0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{410,313},{79,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{79,109}</string>
+			</dict>
+			<key>animation_mj0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{314,109},{91,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,109}</string>
+			</dict>
+			<key>animation_mj0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{308,236},{95,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,109}</string>
+			</dict>
+			<key>animation_tx0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{118,236},{118,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,96}</string>
+			</dict>
+			<key>animation_tx00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,354},{118,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,116}</string>
+			</dict>
+			<key>animation_tx0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{222,118},{118,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,92}</string>
+			</dict>
+			<key>animation_tx0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{118,0},{118,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,108}</string>
+			</dict>
+			<key>animation_tx0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{118,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,118}</string>
+			</dict>
+			<key>animation_tx0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,118},{118,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,118}</string>
+			</dict>
+			<key>animation_tx0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{118,118},{104,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,118}</string>
+			</dict>
+			<key>animation_tx0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{214,236},{94,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,118}</string>
+			</dict>
+			<key>animation_tx0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{116,354},{112,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,118}</string>
+			</dict>
+			<key>animation_tx0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,236},{118,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,118}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>circleme.png</string>
+			<key>realTextureFileName</key>
+			<string>circleme.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>
